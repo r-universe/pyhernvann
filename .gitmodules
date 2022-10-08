@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EcoDiet"]
+	path = EcoDiet
+	url = https://github.com/pyhernvann/ecodiet
+	shallow = true
+	registered = true
